@@ -1,0 +1,8 @@
+{
+    "main": {
+        "title": "Title",
+        "bodytext": "Active language English",
+        "navigatorButtonText": "Go",
+        "resetButtonText": "Reset language"
+    }
+}

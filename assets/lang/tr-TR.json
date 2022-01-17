@@ -1,0 +1,8 @@
+{
+    "main": {
+        "title": "Başlık",
+        "bodytext": "Aktif Dil Türkçe",
+        "navigatorButtonText": "Git",
+        "resetButtonText": "Dili Resetle"
+    }
+}
